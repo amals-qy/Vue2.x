@@ -1,0 +1,7 @@
+.slider{
+  width:200px;
+  height:100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  background: #FFFFFF;
+}
